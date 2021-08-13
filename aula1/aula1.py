@@ -1,6 +1,8 @@
 # Comentarios
 print('Linha 1')  # Um comentario
 print('Linha 2')  # Mais um comentario
+print('Linha 3')  # Mais um comentario
+
 #Falando do que se trata essa linha
 #Outra linha comentada
 print('Linha 3')
